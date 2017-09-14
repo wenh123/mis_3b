@@ -11,4 +11,4 @@
 
 ![](課程圖.png "課程圖")
 
-[![](video.png)](https://www.youtube.com/watch?v=StTqXEQ2l-Y)
+[![Every is awesome](video.png)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything is awesome!")
